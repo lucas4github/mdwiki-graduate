@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# 毕业协助会
 
 
 <!--
@@ -19,8 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[技术文档库](pages/about.md)
+[工具文档库](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
